@@ -44,7 +44,7 @@ Professor e pesquisador nas áreas de **Inteligência Artificial, Machine Learni
 
 Os slides utilizados durante as aulas estão disponíveis no Google Drive:
 
-📂 **Slides da disciplina**
+📂 **Slides e datasets da disciplina**
 
 https://drive.google.com/drive/folders/1yDUi4n9w6_OCQ9V7H5h8EgvR4DVOOLlB?usp=drive_link
 
@@ -92,10 +92,10 @@ visao-computacional-para-negocios
 ├── notebooks
 │   Exemplos práticos em Python
 │
-├── datasets
+├── datasets (no drive)
 │   Conjuntos de dados utilizados nas demonstrações
 │
-└── exemplos
+└── exemplos (no drive/slides)
     Casos de aplicação discutidos na disciplina
 ```
 
